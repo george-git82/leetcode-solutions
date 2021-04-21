@@ -1,3 +1,3 @@
 # leetcode-solutions
 
-## Practice solutions for leetcode problems using javascript.
+## Practice solutions for leetcode problems using javascript
